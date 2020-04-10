@@ -1,0 +1,10 @@
+.container-fluid {
+  font-family: 'Jua', sans-serif;
+}
+
+.isDisabled {
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+}
